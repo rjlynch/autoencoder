@@ -1,0 +1,13 @@
+.bundle/**/*
+
+data/**/*
+!data/.keep
+
+tmp/**/*
+!tmp/.keep
+
+models/**/*
+!models/.keep
+
+libtorch/**/*
+!libtorch/.keep

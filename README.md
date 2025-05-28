@@ -13,7 +13,7 @@ Trains on the fashion mnist dataset.
 bundle exec ruby train.rb
 ```
 
-## Cominde images
+## Combine images
 ```
 bundle exec ruby combine.rb pullover shirt
 ```
@@ -35,7 +35,7 @@ Available labels
 With 5 layers in encoder / decoder  
 784 -> 512 -> 256 -> 128 -> 64 -> 32
 
-### Comining embeddings
+### Combining embeddings
 #### shirt + t_shirt
 **shirt**
 
